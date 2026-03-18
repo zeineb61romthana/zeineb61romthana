@@ -36,5 +36,5 @@ Docker • GCP • OCI
 - Building reliable agent-based architectures  
 
 ## Connect with me
-- LinkedIn: [(https://www.linkedin.com/in/zeineb-romthana-81a8b1200/)]
-- Portfolio: [(https://github.com/zeineb61romthana/)]
+- LinkedIn: (https://www.linkedin.com/in/zeineb-romthana-81a8b1200/)
+- Portfolio: (https://github.com/zeineb61romthana/)
